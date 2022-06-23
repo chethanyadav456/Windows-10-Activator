@@ -1,6 +1,7 @@
 # Windows-10-Activator
 
 - Method 2 - [Click here](https://github.com/chethanyadav456/Windows-10-Activator/tree/main/method-2)
+- Method 3 - [Click here](https://github.com/chethanyadav456/Windows-10-Activator/tree/main/method-3)
 
 ## Supported Versions.
 - Windows 10 Home.
@@ -8,7 +9,7 @@
 - Windows 10 Enterprise, Enterprise LISB.
 - Windows 10 Education.
 
-## How to use ?
+## How to use ? - Method 1
 - Clone or download the repository and unzip it into your PC.
 - Open Notepad to create a new file.
 - Open windows-activation.txt file and copy code from that to new file and name it with `.bat` extension (for example- file.bat).
