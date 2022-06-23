@@ -1,6 +1,6 @@
 # Method 2
 
-1. Open CMD as Administrator
+``` 1. Open CMD as Administrator
 
 2. Paste the following commands into the Cmd: One by one, follow the order.
 
@@ -24,4 +24,4 @@
  
  cscript slmgr.vbs /skms kms.lotro.cc
  
- cscript slmgr.vbs /ato
+ cscript slmgr.vbs /ato```
