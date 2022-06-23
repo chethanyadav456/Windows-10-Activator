@@ -1,5 +1,10 @@
-# Windows-10-Activator
+<p align="center">
+  <a href="https://github.com/chethanyadav456/Giveaway">
+    <img src="./win10_logo.png" alt="Logo" width="80" height="80">
+  </a>
 
+  <h3 align="center">Windows 10 Activator</h3>
+  
 - Method 2 - [Click here](https://github.com/chethanyadav456/Windows-10-Activator/tree/main/method-2)
 - Method 3 - [Click here](https://github.com/chethanyadav456/Windows-10-Activator/tree/main/method-3)
 
