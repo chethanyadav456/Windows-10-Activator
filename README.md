@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/chethanyadav456/Giveaway">
-    <img src="./assets/Windows_10_Logo.png" alt="Logo" width="80" height="80">
+    <img src="./assets/Windows_10_Logo.png" alt="Logo">
   </a>
 
   <h3 align="center">Windows 10 Activator</h3>
