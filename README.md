@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Only for Educational purposes
+
 <p align="center">
   <a href="https://github.com/chethanyadav456/Giveaway">
     <img src="./assets/Windows_10_Logo.png" alt="Logo">
